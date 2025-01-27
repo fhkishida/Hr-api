@@ -13,7 +13,7 @@ return [
     | https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Basic-Configuration
     |
     */
-
+ 
     'title' => 'AdminLTE 3',
     'title_prefix' => '',
     'title_postfix' => '',
